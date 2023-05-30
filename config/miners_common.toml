@@ -1,0 +1,7 @@
+
+["Miners config file"]
+	#Chance that leaves generate from tree absorbers, 0.0 = always, 1.0 = never, 0.5 = 50% chance, default = 0.25
+	"Leaves drop chance" = 0.5
+	#Show the particles of the machines when the multiblock and/or the cap blocks are there.
+	"Show particles?" = true
+
