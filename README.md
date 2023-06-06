@@ -3,6 +3,7 @@
 # Where to start
 If you want, you can manually download the zip files from this repo, or you can [download the pack from curseforge](https://www.curseforge.com/minecraft/modpacks/technology-and-storage-overload)
 
+# Modpack Description 
 This moderately sized modpack is designed to provide an immersive and engaging Minecraft experience for you and your friends. With a focus on technology and storage, it offers a diverse range of 167 carefully selected mods to enhance gameplay.
 
 Whether you're a beginner or a seasoned player, this modpack offers something for everyone. The inclusion of Applied Energistics 2 (AE2) allows you to delve into complex automation and efficient item storage systems. You'll have the tools to streamline resource management, crafting, and storage, making your gameplay more efficient and enjoyable.
