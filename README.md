@@ -1,6 +1,7 @@
 ## Technology and Storage Overload
 
-### Description
+# Where to start
+If you want, you can manually download the zip files from this repo, or you can [download the pack from curseforge](https://www.curseforge.com/minecraft/modpacks/technology-and-storage-overload)
 
 This moderately sized modpack is designed to provide an immersive and engaging Minecraft experience for you and your friends. With a focus on technology and storage, it offers a diverse range of 167 carefully selected mods to enhance gameplay.
 
