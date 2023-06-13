@@ -6,7 +6,7 @@
 	#Disable to make the anchor upgrade not do anything.
 	allowChunkloading = true
 	#Enable this to allow dragging items from JEI into the target slot of Digital Miner filters.
-	easyMinerFilters = true
+	easyMinerFilters = false
 	#How many ticks must pass until a block's active state is synced with the client, if it has been rapidly changing.
 	#Range: 0 ~ 1200
 	blockDeactivationDelay = 60

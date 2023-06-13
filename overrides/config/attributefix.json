@@ -55,6 +55,17 @@
         "value": 10000000
       }
     },
+    "doggytalents:generic.crit_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 10000000
+      }
+    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -85,6 +96,17 @@
       },
       "max": {
         "default": 8,
+        "value": 10000000
+      }
+    },
+    "botania:pixie_spawn_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
         "value": 10000000
       }
     },
@@ -176,6 +198,17 @@
         "value": 10000000
       }
     },
+    "doggytalents:generic.jump_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 10000000
+      }
+    },
     "forge:swim_speed": {
       "enabled": false,
       "min": {
@@ -206,6 +239,17 @@
       },
       "max": {
         "default": 20,
+        "value": 10000000
+      }
+    },
+    "doggytalents:generic.crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
         "value": 10000000
       }
     }
